@@ -50,7 +50,7 @@ The dataset was sourced from Basketball Reference and includes Celtics game sche
 
 # Dashboards Built 
 
-<img src="output/celtics_home_game_demand_analysis.png">
+<img src="output/celtics_home_game_demand.png">
 
 
 
