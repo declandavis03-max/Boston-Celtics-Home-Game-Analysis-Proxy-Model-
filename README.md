@@ -52,6 +52,22 @@ The dataset was sourced from Basketball Reference and includes Celtics game sche
 
 <img src="output/celtics_home_game_demand.png">
 
+# Overall Insights
+- Weekend and prime matchups drive highest demand
+- Opponent strength is a key driver of fan interest
+- Demand varies across the season based on scheduling
+- Weekday games generally show lower engagement
+
+# Limitations
+
+This analysis uses a proxy metric (Game Attractiveness Score) rather than actual ticket sales or attendance data. As a result, the model estimates demand based on assumed drivers rather than direct measurement. Additionally, the dataset is limited to schedule-level information and does not include factors such as pricing, resale activity, or customer segmentation, which could further refine demand insights.
+
+# Future Work
+- Further develop a “rest/anticipation” metric by assigning greater weight to longer gaps between home games, as increased time between games may lead to higher fan anticipation and demand.
+
+- Future improvements would include integrating real ticketing or CRM data, such as tickets sold, revenue, or resale prices, to validate and enhance the proxy model. Additional analysis could incorporate fan segmentation, promotional effectiveness, and predictive modeling.
+
+
 
 
   
