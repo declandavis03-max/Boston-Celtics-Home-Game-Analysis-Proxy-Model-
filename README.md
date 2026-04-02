@@ -26,7 +26,14 @@ The dataset was sourced from Basketball Reference and includes Celtics game sche
   <img src="images/celtics_schedule_before_cleaning.png">
 
 - SQL CLENAING:
-  1. Drop Columns
-DROP_COLUMNS_SCRIPT_USE.sql
+  1. Drop unwanted Columns
+ <img src="images/dropped_tables.png">
+
+  2. Filtered Home Games
+ <img src="images/filtered_to_home_games.png">
+
+  3. Split up Date Column
+ <img src="images/split_date_query.png">
+    
   
   
