@@ -7,6 +7,8 @@ Hi all!
 - [Formula Creation](#Formula-Creation)
 - [Dashboards Built](#Dashboards-Built)
 - [Overall Insights](#Overall-Insights)
+- [Limitations](#Limitations)
+- [Future Work](#Future-Work)
 
 
   # Introduction
