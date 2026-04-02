@@ -23,5 +23,5 @@ Data --> SQL Database --> SQL Cleaning --> Dashboard Deisgn --> Overall Insights
 The dataset was sourced from Basketball Reference and includes Celtics game schedule information. Data was cleaned and structured in SQL, with key fields including game number, opponent, game timing, and indicators such as home/away and special event games. The dataset was filtered to focus on home games only.
 
 - Data Before (AS CSV)
-  <img src="images/ celtics_schedule_before_cleaning.png">
+  <img src="images/celtics_schedule_before_cleaning.png">
   
