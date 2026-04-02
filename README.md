@@ -24,4 +24,9 @@ The dataset was sourced from Basketball Reference and includes Celtics game sche
 
 - Data Before (AS CSV)
   <img src="images/celtics_schedule_before_cleaning.png">
+
+- SQL CLENAING:
+  1. Drop Columns
+DROP_COLUMNS_SCRIPT_USE.sql
+  
   
