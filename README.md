@@ -1,4 +1,4 @@
-Hi all! 
+Hi all! Welcome to my Boston Celtics Home Game Demand Analysis project. This project explores how scheduling and opponent factors influence fan interest in home games. Using SQL for data preparation and Tableau for visualization, the goal is to uncover patterns in demand and demonstrate how data can support decision-making in sports business operations.
 
 ## Table of Contents
 
