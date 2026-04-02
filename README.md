@@ -48,6 +48,11 @@ The dataset was sourced from Basketball Reference and includes Celtics game sche
 <img src="images/prime_month.png">
 <img src="images/prime_time.png">
 
+# Dashboards Built 
+
+<img src="output/celtics_home_game_demand_analysis.png">
+
+
 
   
   
